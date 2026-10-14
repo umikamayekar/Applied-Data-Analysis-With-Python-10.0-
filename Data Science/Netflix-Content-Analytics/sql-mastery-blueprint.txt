@@ -1,0 +1,29 @@
+sql-mastery/
+│
+├── README.md
+│
+├── 01-basics/
+│   └── practice.sql
+│
+├── 02-aggregation/
+│   └── practice.sql
+│
+├── 03-joins/
+│   ├── inner_join.sql
+│   ├── left_join.sql
+│   └── join_challenges.sql
+│
+├── 04-subqueries/
+│   └── practice.sql
+│
+├── 05-cte/
+│   └── practice.sql
+│
+├── 06-window-functions/
+│   └── practice.sql
+│
+└── 07-real-world-project/
+    ├── README.md
+    ├── schema.sql
+    ├── analysis.sql
+    └── findings.md
